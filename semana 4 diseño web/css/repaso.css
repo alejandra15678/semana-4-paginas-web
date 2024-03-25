@@ -1,0 +1,28 @@
+header{
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    height: 100px;
+}
+nav{
+    background-color: aquamarine;
+    color: coral;
+    border-radius: 30px;
+    height: 100px;
+}
+section{
+    background-color: black;
+    color: wheat;
+    height: 500px;
+}
+aside{
+    position: relative;
+    float: left;
+    background-color: blueviolet;
+}
+footer{
+    background-color: green;
+    color: black;
+    clear: both;
+}
